@@ -1,0 +1,10 @@
+ExtractKlarfData\.idea *
+ExtractKlarfData\venv *
+Hello World\.idea *
+Hello World\venv *
+RunExe\.idea *
+RunExe\venv *
+hi\.idea *
+hi\venv *
+*.csv
+*.tiff
